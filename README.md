@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Aidan, but you may know me better as [Timmo](https://github.com/timmo001) or [@timmo001](https://twitter.com/timmo001).
 
@@ -9,6 +9,7 @@ My name is Aidan, but you may know me better as [Timmo](https://github.com/timmo
 - [Twitter](https://twitter.com/timmo001) 🐦
 - [Home Assistant Community](https://community.home-assistant.io/u/timmo001/summary) 🏠
 - [Twitch](https://www.twitch.tv/timmo001) 💬
+- [E-Mail](mailto:contact@timmo.xyz) ✉️
 
 ## Tips
 
@@ -38,4 +39,3 @@ Here are some ideas to get you started:
 
 [sponsor-badge]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/sponsor.png
 [sponsor]: https://github.com/sponsors/timmo001?o=esc
-
