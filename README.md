@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Aidan, but you may know me better as [Timmo](https://github.com/timmo001) or [@timmo001](https://twitter.com/timmo001).
+My name is Aidan, but you may know me better as Timmo or @timmo001
 
 ## Contact / Social
 
