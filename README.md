@@ -7,8 +7,6 @@ My name is Aidan, but you might know me better as Timmo or @timmo001
 - GitHub - You are here 👋
 - My [Website](https://timmo.dev) 📙
 - [Twitter](https://twitter.com/timmo001) 🐦
-- [Home Assistant Community](https://community.home-assistant.io/u/timmo001/summary) 🏠
-- [Twitch](https://www.twitch.tv/timmo001) 💬
 - [E-Mail](mailto:contact@timmo.xyz) ✉️
 
 ## Tips
