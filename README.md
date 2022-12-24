@@ -6,7 +6,7 @@ My name is Aidan, but you might know me better as Timmo or @timmo001
 
 - GitHub - You are here 👋
 - [Website](https://timmo.dev) 📙
-- [Mastodon](https://fosstodon.org/@timmo) Ⓜ️
+- <a href="https://fosstodon.org/@timmo" rel="me" target="_blank">Mastodon</a> Ⓜ️
 - [Twitter](https://twitter.com/timmo001) 🐦
 - [E-Mail](mailto:contact@timmo.xyz) ✉️
 
