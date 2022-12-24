@@ -16,8 +16,6 @@ If you like my work and want to send a tip my way, you can find links below on o
 
 [![GitHub Sponsor][sponsor-badge]][sponsor]
 
-<a href="https://www.buymeacoffee.com/timmo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" border="0" alt="Buy Me a Drink at buymeacoffee.com" /></a>
-
 <a href="https://ko-fi.com/M4M6YNVS" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" border="0" alt="Buy Me a Drink at ko-fi.com" /></a>
 
 
