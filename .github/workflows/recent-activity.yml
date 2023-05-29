@@ -1,5 +1,5 @@
 ---
-name: 👩‍💻 Inserts Recent Activity
+name: 👩‍💻 Update Recent Activity
 
 on:
   schedule:
