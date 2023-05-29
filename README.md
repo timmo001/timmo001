@@ -37,5 +37,5 @@ If you like my work and want to send a tip my way, you can find links below on o
 
 ---
 
-[sponsor-badge]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/sponsor.png
+[sponsor-badge]: https://raw.githubusercontent.com/timmo001/home-panel/v2.11.6/documentation/resources/sponsor.png
 [sponsor]: https://github.com/sponsors/timmo001?o=esc
