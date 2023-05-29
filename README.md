@@ -18,21 +18,14 @@ If you like my work and want to send a tip my way, you can find links below on o
 
 <a href="https://ko-fi.com/M4M6YNVS" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" border="0" alt="Buy Me a Drink at ko-fi.com" /></a>
 
+## Recent Activity
 
-<!--
-**timmo001/timmo001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-Here are some ideas to get you started:
+➡️  **[More Activity](/RECENT-ACTIVITY.md)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 [sponsor-badge]: https://raw.githubusercontent.com/timmo001/home-panel/master/documentation/resources/sponsor.png
 [sponsor]: https://github.com/sponsors/timmo001?o=esc
