@@ -20,7 +20,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: "⚡ Update recent activity"
         with:
-          MAX_LINES: 10
+          MAX_LINES: 5
       - name: ↗️ Add activity to file
         uses: lissy93/github-activity-readme@master
         env:
