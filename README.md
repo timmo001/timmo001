@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2180](https://github.com/timmo001/home-panel/pull/2180) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
-2. 🎉 Merged PR [#2169](https://github.com/timmo001/home-panel/pull/2169) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
-3. 🎉 Merged PR [#2175](https://github.com/timmo001/home-panel/pull/2175) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
-4. 💪 Opened PR [#2175](https://github.com/timmo001/home-panel/pull/2175) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
-5. 🔒 Closed issue [#2155](https://github.com/timmo001/home-panel/issues/2155) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
+1. 🗣 Commented on [#27668](https://github.com/home-assistant/home-assistant.io/issues/27668) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+2. 💪 Opened PR [#2180](https://github.com/timmo001/home-panel/pull/2180) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
+3. 🎉 Merged PR [#2169](https://github.com/timmo001/home-panel/pull/2169) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
+4. 🎉 Merged PR [#2175](https://github.com/timmo001/home-panel/pull/2175) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
+5. 💪 Opened PR [#2175](https://github.com/timmo001/home-panel/pull/2175) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
