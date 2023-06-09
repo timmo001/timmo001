@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/timmo001/aiolyric/pull/55) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-2. 🗣 Commented on [#27668](https://github.com/home-assistant/home-assistant.io/issues/27668) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-3. 💪 Opened PR [#2180](https://github.com/timmo001/home-panel/pull/2180) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
-4. 🎉 Merged PR [#2169](https://github.com/timmo001/home-panel/pull/2169) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
-5. 🎉 Merged PR [#2175](https://github.com/timmo001/home-panel/pull/2175) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
+1. 🎉 Merged PR [#2193](https://github.com/timmo001/home-panel/pull/2193) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
+2. 💪 Opened PR [#2193](https://github.com/timmo001/home-panel/pull/2193) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
+3. 🔒 Closed issue [#129](https://github.com/timmo001/workflows/issues/129) in [timmo001/workflows](https://github.com/timmo001/workflows)
+4. 🔒 Closed issue [#130](https://github.com/timmo001/workflows/issues/130) in [timmo001/workflows](https://github.com/timmo001/workflows)
+5. 🔒 Closed issue [#128](https://github.com/timmo001/workflows/issues/128) in [timmo001/workflows](https://github.com/timmo001/workflows)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
