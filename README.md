@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#210](https://github.com/timmo001/timmo-site/pull/210) in [timmo001/timmo-site](https://github.com/timmo001/timmo-site)
-2. 💪 Opened PR [#210](https://github.com/timmo001/timmo-site/pull/210) in [timmo001/timmo-site](https://github.com/timmo001/timmo-site)
-3. 🎉 Merged PR [#209](https://github.com/timmo001/timmo-site/pull/209) in [timmo001/timmo-site](https://github.com/timmo001/timmo-site)
-4. 💪 Opened PR [#209](https://github.com/timmo001/timmo-site/pull/209) in [timmo001/timmo-site](https://github.com/timmo001/timmo-site)
-5. 🎉 Merged PR [#208](https://github.com/timmo001/timmo-site/pull/208) in [timmo001/timmo-site](https://github.com/timmo001/timmo-site)
+1. 🎉 Merged PR [#23](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/23) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+2. 🎉 Merged PR [#24](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/24) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+3. 🎉 Merged PR [#210](https://github.com/timmo001/timmo-site/pull/210) in [timmo001/timmo-site](https://github.com/timmo001/timmo-site)
+4. 💪 Opened PR [#210](https://github.com/timmo001/timmo-site/pull/210) in [timmo001/timmo-site](https://github.com/timmo001/timmo-site)
+5. 🎉 Merged PR [#209](https://github.com/timmo001/timmo-site/pull/209) in [timmo001/timmo-site](https://github.com/timmo001/timmo-site)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
