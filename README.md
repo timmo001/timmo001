@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/timmo001/aiolyric/pull/56) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-2. 🗣 Commented on [#82318](https://github.com/home-assistant/core/issues/82318) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 💪 Opened PR [#1](https://github.com/timmo001/todo/pull/1) in [timmo001/todo](https://github.com/timmo001/todo)
-4. 🎉 Merged PR [#25](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/25) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
-5. 🎉 Merged PR [#23](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/23) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+1. ❗ Opened issue [#139](https://github.com/timmo001/workflows/issues/139) in [timmo001/workflows](https://github.com/timmo001/workflows)
+2. ❗ Opened issue [#138](https://github.com/timmo001/workflows/issues/138) in [timmo001/workflows](https://github.com/timmo001/workflows)
+3. 🎉 Merged PR [#56](https://github.com/timmo001/aiolyric/pull/56) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+4. 🗣 Commented on [#82318](https://github.com/home-assistant/core/issues/82318) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#1](https://github.com/timmo001/todo/pull/1) in [timmo001/todo](https://github.com/timmo001/todo)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
