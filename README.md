@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.0](https://github.com/1.2.0) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
-2. 🎉 Merged PR [#22](https://github.com/timmo001/goxlr-utility-api-py/pull/22) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
-3. 🔒 Closed issue [#18](https://github.com/timmo001/goxlr-utility-api-py/issues/18) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
-4. ❗ Opened issue [#23](https://github.com/timmo001/goxlr-utility-api-py/issues/23) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
-5. 💪 Opened PR [#22](https://github.com/timmo001/goxlr-utility-api-py/pull/22) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
+1. 🚀 Published release [1.3.1](https://github.com/1.3.1) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+2. 🚀 Published release [1.2.3](https://github.com/1.2.3) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
+3. 🎉 Merged PR [#28](https://github.com/timmo001/goxlr-utility-api-py/pull/28) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
+4. 💪 Opened PR [#28](https://github.com/timmo001/goxlr-utility-api-py/pull/28) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
+5. 🚀 Published release [1.3.0](https://github.com/1.3.0) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
