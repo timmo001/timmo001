@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/timmo001/goxlr-utility-api-py/issues/18) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
-2. 💪 Opened PR [#2538](https://github.com/timmo001/system-bridge/pull/2538) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🗣 Commented on [#95710](https://github.com/home-assistant/core/issues/95710) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🎉 Merged PR [#2537](https://github.com/timmo001/system-bridge/pull/2537) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-5. 🎉 Merged PR [#73](https://github.com/timmo001/container-debian-base/pull/73) in [timmo001/container-debian-base](https://github.com/timmo001/container-debian-base)
+1. 🚀 Published release [1.2.0](https://github.com/1.2.0) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
+2. 🎉 Merged PR [#22](https://github.com/timmo001/goxlr-utility-api-py/pull/22) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
+3. 🔒 Closed issue [#18](https://github.com/timmo001/goxlr-utility-api-py/issues/18) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
+4. ❗ Opened issue [#23](https://github.com/timmo001/goxlr-utility-api-py/issues/23) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
+5. 💪 Opened PR [#22](https://github.com/timmo001/goxlr-utility-api-py/pull/22) in [timmo001/goxlr-utility-api-py](https://github.com/timmo001/goxlr-utility-api-py)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
