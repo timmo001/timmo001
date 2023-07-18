@@ -1,7 +1,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2576](https://github.com/timmo001/system-bridge/pull/2576) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🎉 Merged PR [#2576](https://github.com/timmo001/system-bridge/pull/2576) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 2. 🎉 Merged PR [#29](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/29) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
 3. 🎉 Merged PR [#2566](https://github.com/timmo001/system-bridge/pull/2566) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 4. 💪 Opened PR [#2566](https://github.com/timmo001/system-bridge/pull/2566) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
