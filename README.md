@@ -21,8 +21,8 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2576](https://github.com/timmo001/system-bridge/pull/2576) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. 🎉 Merged PR [#29](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/29) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+1. 🗣 Commented on [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. ❗ Opened issue [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 3. 🎉 Merged PR [#2566](https://github.com/timmo001/system-bridge/pull/2566) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 4. 💪 Opened PR [#2566](https://github.com/timmo001/system-bridge/pull/2566) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 5. 🗣 Commented on [#2551](https://github.com/timmo001/system-bridge/issues/2551) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
