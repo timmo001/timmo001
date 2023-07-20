@@ -1,9 +1,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. ❗ Opened issue [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🎉 Merged PR [#2566](https://github.com/timmo001/system-bridge/pull/2566) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🗣 Commented on [#94899](https://github.com/home-assistant/core/issues/94899) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+3. ❗ Opened issue [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 4. 💪 Opened PR [#2566](https://github.com/timmo001/system-bridge/pull/2566) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 5. 🗣 Commented on [#2551](https://github.com/timmo001/system-bridge/issues/2551) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 🎉 Merged PR [#2552](https://github.com/timmo001/system-bridge/pull/2552) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
