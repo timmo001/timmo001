@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/timmo001/universal-remote/pull/2) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-2. 🎉 Merged PR [#1](https://github.com/timmo001/universal-remote/pull/1) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-3. 🎉 Merged PR [#3](https://github.com/timmo001/universal-remote/pull/3) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-4. 🎉 Merged PR [#4](https://github.com/timmo001/universal-remote/pull/4) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-5. 🗣 Commented on [#94899](https://github.com/home-assistant/core/issues/94899) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🎉 Merged PR [#8](https://github.com/timmo001/universal-remote/pull/8) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+2. 🗣 Commented on [#5](https://github.com/timmo001/universal-remote/issues/5) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+3. 🗣 Commented on [#6](https://github.com/timmo001/universal-remote/issues/6) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+4. 🗣 Commented on [#7](https://github.com/timmo001/universal-remote/issues/7) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+5. 💪 Opened PR [#8](https://github.com/timmo001/universal-remote/pull/8) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
