@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/timmo001/universal-remote/issues/13) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-2. ❗ Opened issue [#13](https://github.com/timmo001/universal-remote/issues/13) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-3. ❗ Opened issue [#11](https://github.com/timmo001/universal-remote/issues/11) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-4. 🎉 Merged PR [#8](https://github.com/timmo001/universal-remote/pull/8) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-5. 🗣 Commented on [#5](https://github.com/timmo001/universal-remote/issues/5) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+1. 🎉 Merged PR [#30](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/30) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+2. 🔒 Closed issue [#13](https://github.com/timmo001/universal-remote/issues/13) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+3. ❗ Opened issue [#13](https://github.com/timmo001/universal-remote/issues/13) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+4. ❗ Opened issue [#11](https://github.com/timmo001/universal-remote/issues/11) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+5. 🎉 Merged PR [#8](https://github.com/timmo001/universal-remote/pull/8) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
