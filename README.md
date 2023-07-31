@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2604](https://github.com/timmo001/system-bridge/pull/2604) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. ❗ Opened issue [#2603](https://github.com/timmo001/system-bridge/issues/2603) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🔒 Closed issue [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 🗣 Commented on [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-5. 🗣 Commented on [#2580](https://github.com/timmo001/system-bridge/issues/2580) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. ❗ Opened issue [#2605](https://github.com/timmo001/system-bridge/issues/2605) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🗣 Commented on [#58](https://github.com/timmo001/aiolyric/issues/58) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+3. 🎉 Merged PR [#57](https://github.com/timmo001/aiolyric/pull/57) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+4. 🎉 Merged PR [#58](https://github.com/timmo001/aiolyric/pull/58) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+5. 🔒 Closed issue [#2545](https://github.com/timmo001/system-bridge/issues/2545) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
