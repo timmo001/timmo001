@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/timmo001/aiolyric/pull/60) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-2. 🔒 Closed issue [#143](https://github.com/timmo001/workflows/issues/143) in [timmo001/workflows](https://github.com/timmo001/workflows)
-3. 🔒 Closed issue [#144](https://github.com/timmo001/workflows/issues/144) in [timmo001/workflows](https://github.com/timmo001/workflows)
-4. ❗ Opened issue [#144](https://github.com/timmo001/workflows/issues/144) in [timmo001/workflows](https://github.com/timmo001/workflows)
-5. ❗ Opened issue [#143](https://github.com/timmo001/workflows/issues/143) in [timmo001/workflows](https://github.com/timmo001/workflows)
+1. 🔒 Closed issue [#2701](https://github.com/timmo001/system-bridge/issues/2701) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🗣 Commented on [#97532](https://github.com/home-assistant/core/issues/97532) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 💪 Opened PR [#100055](https://github.com/home-assistant/core/pull/100055) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#2364](https://github.com/timmo001/system-bridge/issues/2364) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. ❗ Opened issue [#2701](https://github.com/timmo001/system-bridge/issues/2701) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
