@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#101193](https://github.com/home-assistant/core/pull/101193) in [home-assistant/core](https://github.com/home-assistant/core)
-2. ❗ Opened issue [#101191](https://github.com/home-assistant/core/issues/101191) in [home-assistant/core](https://github.com/home-assistant/core)
-3. ❗ Opened issue [#153](https://github.com/timmo001/workflows/issues/153) in [timmo001/workflows](https://github.com/timmo001/workflows)
-4. 🚀 Published release [1.3.3](https://github.com/1.3.3) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
-5. 🎉 Merged PR [#35](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/35) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+1. 💪 Opened PR [#101211](https://github.com/home-assistant/core/pull/101211) in [home-assistant/core](https://github.com/home-assistant/core)
+2. ❌ Closed PR [#101193](https://github.com/home-assistant/core/pull/101193) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#101193](https://github.com/home-assistant/core/issues/101193) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#101193](https://github.com/home-assistant/core/issues/101193) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#101193](https://github.com/home-assistant/core/pull/101193) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
