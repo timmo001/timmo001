@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101621](https://github.com/home-assistant/core/issues/101621) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🔒 Closed issue [#2729](https://github.com/timmo001/system-bridge/issues/2729) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🗣 Commented on [#2729](https://github.com/timmo001/system-bridge/issues/2729) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 💪 Opened PR [#101621](https://github.com/home-assistant/core/pull/101621) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#101506](https://github.com/home-assistant/core/issues/101506) in [home-assistant/core](https://github.com/home-assistant/core)
+1. ❌ Closed PR [#2769](https://github.com/timmo001/system-bridge/pull/2769) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🗣 Commented on [#2769](https://github.com/timmo001/system-bridge/issues/2769) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+3. 🗣 Commented on [#101621](https://github.com/home-assistant/core/issues/101621) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🔒 Closed issue [#2729](https://github.com/timmo001/system-bridge/issues/2729) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 🗣 Commented on [#2729](https://github.com/timmo001/system-bridge/issues/2729) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
