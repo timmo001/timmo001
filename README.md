@@ -8,7 +8,7 @@ My name is Aidan, but you might know me better as Timmo or @timmo001
 - [Website](https://timmo.dev) 📙
 - <a href="https://fosstodon.org/@timmo" rel="me" target="_blank">Mastodon</a> Ⓜ️
 - [Twitter](https://twitter.com/timmo001) 🐦
-- [E-Mail](mailto:contact@timmo.xyz) ✉️
+- [E-Mail](mailto:aidan@timmo.dev) ✉️
 
 ## Tips
 
@@ -37,5 +37,5 @@ If you like my work and want to send a tip my way, you can find links below on o
 
 ---
 
-[sponsor-badge]: https://github.com/timmo001/timmo001/blob/master/sponsor.png
+[sponsor-badge]: https://github.com/timmo001/timmo001/blob/master/sponsor.png?raw=true
 [sponsor]: https://github.com/sponsors/timmo001?o=esc
