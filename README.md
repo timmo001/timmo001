@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.9.0](https://github.com/3.9.0) in [timmo001/system-bridge-shared](https://github.com/timmo001/system-bridge-shared)
-2. ❌ Closed PR [#3](https://github.com/timmo001/system-bridge-shared/pull/3) in [timmo001/system-bridge-shared](https://github.com/timmo001/system-bridge-shared)
-3. ❌ Closed PR [#2750](https://github.com/timmo001/system-bridge/pull/2750) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 🎉 Merged PR [#2812](https://github.com/timmo001/system-bridge/pull/2812) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-5. 🗣 Commented on [#2812](https://github.com/timmo001/system-bridge/issues/2812) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🚀 Published release [3.9.3](https://github.com/3.9.3) in [timmo001/system-bridge-cli](https://github.com/timmo001/system-bridge-cli)
+2. 🚀 Published release [3.9.3](https://github.com/3.9.3) in [timmo001/system-bridge-cli](https://github.com/timmo001/system-bridge-cli)
+3. 🚀 Published release [3.9.2](https://github.com/3.9.2) in [timmo001/system-bridge-cli](https://github.com/timmo001/system-bridge-cli)
+4. 🚀 Published release [3.9.2](https://github.com/3.9.2) in [timmo001/system-bridge-cli](https://github.com/timmo001/system-bridge-cli)
+5. ❌ Closed PR [#3](https://github.com/timmo001/system-bridge-backend/pull/3) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
