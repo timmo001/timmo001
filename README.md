@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/timmo001/universal-remote/pull/16) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-2. 🔒 Closed issue [#11](https://github.com/timmo001/universal-remote/issues/11) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-3. 🎉 Merged PR [#30](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/30) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
-4. 🔒 Closed issue [#13](https://github.com/timmo001/universal-remote/issues/13) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
-5. ❗ Opened issue [#13](https://github.com/timmo001/universal-remote/issues/13) in [timmo001/universal-remote](https://github.com/timmo001/universal-remote)
+1. ❗ Opened issue [#75](https://github.com/esphome/firmware/issues/75) in [esphome/firmware](https://github.com/esphome/firmware)
+2. 🎉 Merged PR [#150](https://github.com/timmo001/workflows/pull/150) in [timmo001/workflows](https://github.com/timmo001/workflows)
+3. 🎉 Merged PR [#149](https://github.com/timmo001/workflows/pull/149) in [timmo001/workflows](https://github.com/timmo001/workflows)
+4. 🎉 Merged PR [#151](https://github.com/timmo001/workflows/pull/151) in [timmo001/workflows](https://github.com/timmo001/workflows)
+5. 🗣 Commented on [#101811](https://github.com/home-assistant/core/issues/101811) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
