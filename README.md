@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101675](https://github.com/home-assistant/core/issues/101675) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🔒 Closed issue [#163](https://github.com/timmo001/workflows/issues/163) in [timmo001/workflows](https://github.com/timmo001/workflows)
-3. 🔒 Closed issue [#162](https://github.com/timmo001/workflows/issues/162) in [timmo001/workflows](https://github.com/timmo001/workflows)
-4. 🔒 Closed issue [#161](https://github.com/timmo001/workflows/issues/161) in [timmo001/workflows](https://github.com/timmo001/workflows)
-5. 🔒 Closed issue [#160](https://github.com/timmo001/workflows/issues/160) in [timmo001/workflows](https://github.com/timmo001/workflows)
+1. 🚀 Published release [3.9.4](https://github.com/3.9.4) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+2. 🚀 Published release [3.9.5](https://github.com/3.9.5) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
+3. 🗣 Commented on [#103423](https://github.com/home-assistant/core/issues/103423) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🎉 Merged PR [#10](https://github.com/timmo001/system-bridge-models/pull/10) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
+5. 💪 Opened PR [#10](https://github.com/timmo001/system-bridge-models/pull/10) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
