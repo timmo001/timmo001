@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.9.4](https://github.com/3.9.4) in [timmo001/system-bridge-gui](https://github.com/timmo001/system-bridge-gui)
-2. 🎉 Merged PR [#5](https://github.com/timmo001/system-bridge-gui/pull/5) in [timmo001/system-bridge-gui](https://github.com/timmo001/system-bridge-gui)
-3. 💪 Opened PR [#5](https://github.com/timmo001/system-bridge-gui/pull/5) in [timmo001/system-bridge-gui](https://github.com/timmo001/system-bridge-gui)
-4. 💪 Opened PR [#172](https://github.com/timmo001/core/pull/172) in [timmo001/core](https://github.com/timmo001/core)
-5. 🎉 Merged PR [#2837](https://github.com/timmo001/system-bridge/pull/2837) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 💪 Opened PR [#173](https://github.com/timmo001/core/pull/173) in [timmo001/core](https://github.com/timmo001/core)
+2. 🗣 Commented on [#172](https://github.com/timmo001/core/issues/172) in [timmo001/core](https://github.com/timmo001/core)
+3. ❌ Closed PR [#172](https://github.com/timmo001/core/pull/172) in [timmo001/core](https://github.com/timmo001/core)
+4. 💪 Opened PR [#103516](https://github.com/home-assistant/core/pull/103516) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#103515](https://github.com/home-assistant/core/pull/103515) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
