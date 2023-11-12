@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.9.5](https://github.com/3.9.5) in [timmo001/system-bridge-gui](https://github.com/timmo001/system-bridge-gui)
-2. 🎉 Merged PR [#7](https://github.com/timmo001/system-bridge-gui/pull/7) in [timmo001/system-bridge-gui](https://github.com/timmo001/system-bridge-gui)
-3. 🎉 Merged PR [#6](https://github.com/timmo001/system-bridge-gui/pull/6) in [timmo001/system-bridge-gui](https://github.com/timmo001/system-bridge-gui)
-4. 🚀 Published release [3.9.12](https://github.com/3.9.12) in [timmo001/system-bridge-cli](https://github.com/timmo001/system-bridge-cli)
-5. 🎉 Merged PR [#8](https://github.com/timmo001/system-bridge-cli/pull/8) in [timmo001/system-bridge-cli](https://github.com/timmo001/system-bridge-cli)
+1. 🎉 Merged PR [#2854](https://github.com/timmo001/system-bridge/pull/2854) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🚀 Published release [3.10.0](https://github.com/3.10.0) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+3. 🚀 Published release [3.11.0](https://github.com/3.11.0) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
+4. 🔒 Closed issue [#2852](https://github.com/timmo001/system-bridge/issues/2852) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 🗣 Commented on [#2852](https://github.com/timmo001/system-bridge/issues/2852) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
