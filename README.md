@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103983](https://github.com/home-assistant/core/pull/103983) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🎉 Merged PR [#2854](https://github.com/timmo001/system-bridge/pull/2854) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🚀 Published release [3.10.0](https://github.com/3.10.0) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
-4. 🚀 Published release [3.11.0](https://github.com/3.11.0) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
-5. 🔒 Closed issue [#2852](https://github.com/timmo001/system-bridge/issues/2852) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🎉 Merged PR [#41](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/41) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+2. 💪 Opened PR [#103983](https://github.com/home-assistant/core/pull/103983) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🎉 Merged PR [#2854](https://github.com/timmo001/system-bridge/pull/2854) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+4. 🚀 Published release [3.10.0](https://github.com/3.10.0) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+5. 🚀 Published release [3.11.0](https://github.com/3.11.0) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
