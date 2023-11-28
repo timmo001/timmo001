@@ -1,7 +1,7 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [3.11.1](https://github.com/3.11.1) in [timmo001/system-bridge-frontend](https://github.com/timmo001/system-bridge-frontend)
+1. 🗣 Commented on [#104594](https://github.com/home-assistant/core/issues/104594) in [home-assistant/core](https://github.com/home-assistant/core)
 2. 🎉 Merged PR [#43](https://github.com/timmo001/system-bridge-frontend/pull/43) in [timmo001/system-bridge-frontend](https://github.com/timmo001/system-bridge-frontend)
 3. 💪 Opened PR [#43](https://github.com/timmo001/system-bridge-frontend/pull/43) in [timmo001/system-bridge-frontend](https://github.com/timmo001/system-bridge-frontend)
 4. 🎉 Merged PR [#2866](https://github.com/timmo001/system-bridge/pull/2866) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
