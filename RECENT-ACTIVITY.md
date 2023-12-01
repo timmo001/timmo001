@@ -1,10 +1,10 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104594](https://github.com/home-assistant/core/issues/104594) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🎉 Merged PR [#43](https://github.com/timmo001/system-bridge-frontend/pull/43) in [timmo001/system-bridge-frontend](https://github.com/timmo001/system-bridge-frontend)
-3. 💪 Opened PR [#43](https://github.com/timmo001/system-bridge-frontend/pull/43) in [timmo001/system-bridge-frontend](https://github.com/timmo001/system-bridge-frontend)
-4. 🎉 Merged PR [#2866](https://github.com/timmo001/system-bridge/pull/2866) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🗣 Commented on [#113](https://github.com/esphome/firmware/issues/113) in [esphome/firmware](https://github.com/esphome/firmware)
+2. 🗣 Commented on [#75](https://github.com/esphome/firmware/issues/75) in [esphome/firmware](https://github.com/esphome/firmware)
+3. 🗣 Commented on [#113](https://github.com/esphome/firmware/issues/113) in [esphome/firmware](https://github.com/esphome/firmware)
+4. 🗣 Commented on [#104594](https://github.com/home-assistant/core/issues/104594) in [home-assistant/core](https://github.com/home-assistant/core)
 5. ❌ Closed PR [#42](https://github.com/timmo001/system-bridge-backend/pull/42) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
 6. 🚀 Published release [3.11.0](https://github.com/3.11.0) in [timmo001/system-bridge-frontend](https://github.com/timmo001/system-bridge-frontend)
 7. 🎉 Merged PR [#42](https://github.com/timmo001/system-bridge-frontend/pull/42) in [timmo001/system-bridge-frontend](https://github.com/timmo001/system-bridge-frontend)
