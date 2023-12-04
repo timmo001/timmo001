@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/esphome/firmware/issues/113) in [esphome/firmware](https://github.com/esphome/firmware)
-2. 🗣 Commented on [#75](https://github.com/esphome/firmware/issues/75) in [esphome/firmware](https://github.com/esphome/firmware)
-3. 🗣 Commented on [#113](https://github.com/esphome/firmware/issues/113) in [esphome/firmware](https://github.com/esphome/firmware)
-4. 🗣 Commented on [#104594](https://github.com/home-assistant/core/issues/104594) in [home-assistant/core](https://github.com/home-assistant/core)
-5. ❌ Closed PR [#42](https://github.com/timmo001/system-bridge-backend/pull/42) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
+1. 🎉 Merged PR [#65](https://github.com/timmo001/aiolyric/pull/65) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+2. 🔒 Closed issue [#67](https://github.com/timmo001/aiolyric/issues/67) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+3. 🎉 Merged PR [#66](https://github.com/timmo001/aiolyric/pull/66) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+4. 🗣 Commented on [#113](https://github.com/esphome/firmware/issues/113) in [esphome/firmware](https://github.com/esphome/firmware)
+5. 🗣 Commented on [#75](https://github.com/esphome/firmware/issues/75) in [esphome/firmware](https://github.com/esphome/firmware)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
