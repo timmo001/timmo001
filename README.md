@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/timmo001/aiolyric/pull/65) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-2. 🔒 Closed issue [#67](https://github.com/timmo001/aiolyric/issues/67) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-3. 🎉 Merged PR [#66](https://github.com/timmo001/aiolyric/pull/66) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-4. 🗣 Commented on [#113](https://github.com/esphome/firmware/issues/113) in [esphome/firmware](https://github.com/esphome/firmware)
-5. 🗣 Commented on [#75](https://github.com/esphome/firmware/issues/75) in [esphome/firmware](https://github.com/esphome/firmware)
+1. 🎉 Merged PR [#39](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/39) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+2. 🎉 Merged PR [#44](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/44) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+3. 🎉 Merged PR [#42](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/42) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+4. 🎉 Merged PR [#38](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/38) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+5. 🎉 Merged PR [#45](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/45) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
