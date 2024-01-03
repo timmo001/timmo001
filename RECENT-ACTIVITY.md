@@ -1,13 +1,13 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/timmo001/system-bridge-windows-sensors/pull/4) in [timmo001/system-bridge-windows-sensors](https://github.com/timmo001/system-bridge-windows-sensors)
-2. 🗣 Commented on [#2876](https://github.com/timmo001/system-bridge/issues/2876) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🗣 Commented on [#2630](https://github.com/timmo001/system-bridge/issues/2630) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 🔒 Closed issue [#2630](https://github.com/timmo001/system-bridge/issues/2630) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-5. 🗣 Commented on [#106444](https://github.com/home-assistant/core/issues/106444) in [home-assistant/core](https://github.com/home-assistant/core)
-6. 🗣 Commented on [#105664](https://github.com/home-assistant/core/issues/105664) in [home-assistant/core](https://github.com/home-assistant/core)
-7. 🗣 Commented on [#105664](https://github.com/home-assistant/core/issues/105664) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🎉 Merged PR [#43](https://github.com/timmo001/home-assistant-assist-desktop/pull/43) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+2. 🗣 Commented on [#33](https://github.com/timmo001/home-assistant-assist-desktop/issues/33) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+3. 🗣 Commented on [#42](https://github.com/timmo001/home-assistant-assist-desktop/issues/42) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+4. 🎉 Merged PR [#39](https://github.com/timmo001/home-assistant-assist-desktop/pull/39) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+5. 🎉 Merged PR [#40](https://github.com/timmo001/home-assistant-assist-desktop/pull/40) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+6. 🎉 Merged PR [#41](https://github.com/timmo001/home-assistant-assist-desktop/pull/41) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+7. 🎉 Merged PR [#36](https://github.com/timmo001/home-assistant-assist-desktop/pull/36) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
 8. 🗣 Commented on [#2877](https://github.com/timmo001/system-bridge/issues/2877) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 9. 🔒 Closed issue [#2877](https://github.com/timmo001/system-bridge/issues/2877) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 10. ❗ Opened issue [#2879](https://github.com/timmo001/system-bridge/issues/2879) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
