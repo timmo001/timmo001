@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107957](https://github.com/home-assistant/core/issues/107957) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#107957](https://github.com/home-assistant/core/issues/107957) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#107957](https://github.com/home-assistant/core/issues/107957) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#107957](https://github.com/home-assistant/core/issues/107957) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#103564](https://github.com/home-assistant/core/issues/103564) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 💪 Opened PR [#112175](https://github.com/home-assistant/core/pull/112175) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#104095](https://github.com/home-assistant/core/issues/104095) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#103564](https://github.com/home-assistant/core/issues/103564) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#100055](https://github.com/home-assistant/core/issues/100055) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#2900](https://github.com/timmo001/system-bridge/issues/2900) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
