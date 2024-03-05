@@ -22,10 +22,10 @@ If you like my work and want to send a tip my way, you can find links below on o
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#100055](https://github.com/home-assistant/core/issues/100055) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#100055](https://github.com/home-assistant/core/issues/100055) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 💪 Opened PR [#31734](https://github.com/home-assistant/home-assistant.io/pull/31734) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-4. ❌ Closed PR [#1](https://github.com/timmo001/home-assistant.io/pull/1) in [timmo001/home-assistant.io](https://github.com/timmo001/home-assistant.io)
-5. 💪 Opened PR [#1](https://github.com/timmo001/home-assistant.io/pull/1) in [timmo001/home-assistant.io](https://github.com/timmo001/home-assistant.io)
+2. 🗣 Commented on [#112189](https://github.com/home-assistant/core/issues/112189) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#100055](https://github.com/home-assistant/core/issues/100055) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#100055](https://github.com/home-assistant/core/issues/100055) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#31734](https://github.com/home-assistant/home-assistant.io/pull/31734) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
