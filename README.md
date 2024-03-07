@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/timmo001/system-bridge-connector/pull/13) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
-2. 🎉 Merged PR [#12](https://github.com/timmo001/system-bridge-connector/pull/12) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
-3. 💪 Opened PR [#12](https://github.com/timmo001/system-bridge-connector/pull/12) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
-4. 🚀 Published release [4.0.1](https://github.com/4.0.1) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
-5. 🎉 Merged PR [#22](https://github.com/timmo001/system-bridge-models/pull/22) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
+1. 💪 Opened PR [#15](https://github.com/timmo001/system-bridge-gui/pull/15) in [timmo001/system-bridge-gui](https://github.com/timmo001/system-bridge-gui)
+2. 🎉 Merged PR [#13](https://github.com/timmo001/system-bridge-connector/pull/13) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+3. 💪 Opened PR [#13](https://github.com/timmo001/system-bridge-connector/pull/13) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+4. 🎉 Merged PR [#12](https://github.com/timmo001/system-bridge-connector/pull/12) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+5. 💪 Opened PR [#12](https://github.com/timmo001/system-bridge-connector/pull/12) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
