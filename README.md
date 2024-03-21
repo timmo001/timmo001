@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2922](https://github.com/timmo001/system-bridge/pull/2922) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. 💪 Opened PR [#2922](https://github.com/timmo001/system-bridge/pull/2922) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🎉 Merged PR [#2918](https://github.com/timmo001/system-bridge/pull/2918) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 🎉 Merged PR [#157](https://github.com/timmo001/system-bridge-frontend/pull/157) in [timmo001/system-bridge-frontend](https://github.com/timmo001/system-bridge-frontend)
-5. 🎉 Merged PR [#2919](https://github.com/timmo001/system-bridge/pull/2919) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🎉 Merged PR [#2923](https://github.com/timmo001/system-bridge/pull/2923) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🎉 Merged PR [#2924](https://github.com/timmo001/system-bridge/pull/2924) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+3. 🎉 Merged PR [#2922](https://github.com/timmo001/system-bridge/pull/2922) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+4. 💪 Opened PR [#2922](https://github.com/timmo001/system-bridge/pull/2922) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 🎉 Merged PR [#2918](https://github.com/timmo001/system-bridge/pull/2918) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
