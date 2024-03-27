@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2939](https://github.com/timmo001/system-bridge/pull/2939) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. 🎉 Merged PR [#2941](https://github.com/timmo001/system-bridge/pull/2941) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🎉 Merged PR [#73](https://github.com/timmo001/aiolyric/pull/73) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-4. ❌ Closed PR [#2931](https://github.com/timmo001/system-bridge/pull/2931) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-5. 🔒 Closed issue [#2915](https://github.com/timmo001/system-bridge/issues/2915) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. ❌ Closed PR [#112191](https://github.com/home-assistant/core/pull/112191) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#112191](https://github.com/home-assistant/core/issues/112191) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#112206](https://github.com/home-assistant/core/issues/112206) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#110796](https://github.com/home-assistant/core/issues/110796) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🔒 Closed issue [#110796](https://github.com/home-assistant/core/issues/110796) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
