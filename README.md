@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/timmo001/aiolyric/pull/74) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-2. 💪 Opened PR [#74](https://github.com/timmo001/aiolyric/pull/74) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
-3. 💪 Opened PR [#114537](https://github.com/home-assistant/core/pull/114537) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🎉 Merged PR [#6](https://github.com/timmo001/aioazuredevops/pull/6) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
-5. 💪 Opened PR [#6](https://github.com/timmo001/aioazuredevops/pull/6) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
+1. 🗣 Commented on [#114577](https://github.com/home-assistant/core/issues/114577) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 💪 Opened PR [#114577](https://github.com/home-assistant/core/pull/114577) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🎉 Merged PR [#76](https://github.com/timmo001/aiolyric/pull/76) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+4. 💪 Opened PR [#76](https://github.com/timmo001/aiolyric/pull/76) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
+5. 🎉 Merged PR [#75](https://github.com/timmo001/aiolyric/pull/75) in [timmo001/aiolyric](https://github.com/timmo001/aiolyric)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
