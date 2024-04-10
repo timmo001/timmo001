@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/timmo001/aioazuredevops/issues/8) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
-2. 🚀 Published release [0.0.1](https://github.com/0.0.1) in [timmo001/test](https://github.com/timmo001/test)
-3. 🗣 Commented on [#3010](https://github.com/timmo001/system-bridge/issues/3010) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 🎉 Merged PR [#39](https://github.com/timmo001/system-bridge-models/pull/39) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
-5. 🗣 Commented on [#3010](https://github.com/timmo001/system-bridge/issues/3010) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🔒 Closed issue [#3010](https://github.com/timmo001/system-bridge/issues/3010) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🗣 Commented on [#3010](https://github.com/timmo001/system-bridge/issues/3010) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+3. 🔒 Closed issue [#3008](https://github.com/timmo001/system-bridge/issues/3008) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+4. 🎉 Merged PR [#3013](https://github.com/timmo001/system-bridge/pull/3013) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 🎉 Merged PR [#3012](https://github.com/timmo001/system-bridge/pull/3012) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
