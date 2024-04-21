@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3037](https://github.com/timmo001/system-bridge/issues/3037) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. 🔒 Closed issue [#3019](https://github.com/timmo001/system-bridge/issues/3019) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🗣 Commented on [#3019](https://github.com/timmo001/system-bridge/issues/3019) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 🎉 Merged PR [#111](https://github.com/timmo001/system-bridge-backend/pull/111) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
-5. 💪 Opened PR [#111](https://github.com/timmo001/system-bridge-backend/pull/111) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
+1. 💪 Opened PR [#115921](https://github.com/home-assistant/core/pull/115921) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#115905](https://github.com/home-assistant/core/issues/115905) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❗ Opened issue [#84](https://github.com/timmo001/ovoenergy/issues/84) in [timmo001/ovoenergy](https://github.com/timmo001/ovoenergy)
+4. 🗣 Commented on [#76](https://github.com/timmo001/ovoenergy/issues/76) in [timmo001/ovoenergy](https://github.com/timmo001/ovoenergy)
+5. 🔒 Closed issue [#76](https://github.com/timmo001/ovoenergy/issues/76) in [timmo001/ovoenergy](https://github.com/timmo001/ovoenergy)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
