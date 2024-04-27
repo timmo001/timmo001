@@ -21,11 +21,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#116225](https://github.com/home-assistant/core/pull/116225) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#116180](https://github.com/home-assistant/core/issues/116180) in [home-assistant/core](https://github.com/home-assistant/core)
-3. ❌ Closed PR [#103](https://github.com/timmo001/system-bridge-backend/pull/103) in [timmo001/system-bridge-backend](https://github.com/timmo001/system-bridge-backend)
-4. ❗ Opened issue [#209](https://github.com/timmo001/home-assistant-assist-desktop/issues/209) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
-5. 🗣 Commented on [#74](https://github.com/timmo001/ovoenergy/issues/74) in [timmo001/ovoenergy](https://github.com/timmo001/ovoenergy)
+1. 🔒 Closed issue [#9](https://github.com/timmo001/developer-utilities-webapp/issues/9) in [timmo001/developer-utilities-webapp](https://github.com/timmo001/developer-utilities-webapp)
+2. 🔒 Closed issue [#3](https://github.com/timmo001/developer-utilities-webapp/issues/3) in [timmo001/developer-utilities-webapp](https://github.com/timmo001/developer-utilities-webapp)
+3. 🔒 Closed issue [#2](https://github.com/timmo001/developer-utilities-webapp/issues/2) in [timmo001/developer-utilities-webapp](https://github.com/timmo001/developer-utilities-webapp)
+4. 🔒 Closed issue [#8](https://github.com/timmo001/developer-utilities-webapp/issues/8) in [timmo001/developer-utilities-webapp](https://github.com/timmo001/developer-utilities-webapp)
+5. ❗ Opened issue [#12](https://github.com/timmo001/developer-utilities-webapp/issues/12) in [timmo001/developer-utilities-webapp](https://github.com/timmo001/developer-utilities-webapp)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
