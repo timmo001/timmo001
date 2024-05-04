@@ -14,10 +14,6 @@ My name is Aidan, but you might know me better as Timmo or @timmo001
 
 If you like my work and want to send a tip my way, you can find links below on one-time payment or an ongoing sponsorship. Thank you in advance for any contribution! 👍
 
-[![GitHub Sponsor][sponsor-badge]][sponsor]
-
-<a href="https://ko-fi.com/M4M6YNVS" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" border="0" alt="Buy Me a Drink at ko-fi.com" /></a>
-
 ## Recent Activity
 
 <!--START_SECTION:activity-->
