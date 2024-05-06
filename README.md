@@ -2,7 +2,8 @@
 
 My name is Aidan, but you might know me better as Timmo or @timmo001
 
-![timmo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmo001&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![timmo001's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmo001&theme=transparent&show_icons=true&hide_border=true&count_private=true&hide=contribs)
+![timmo001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timmo001&theme=transparent&show_icons=true&hide_border=true&count_private=true&langs_count=8&layout=compact)
 
 ## Contact / Social
 
