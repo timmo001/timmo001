@@ -20,11 +20,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/timmo001/home-assistant-assist-desktop/issues/236) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+1. 🗣 Commented on [#237](https://github.com/timmo001/home-assistant-assist-desktop/issues/237) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
 2. 🗣 Commented on [#237](https://github.com/timmo001/home-assistant-assist-desktop/issues/237) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
-3. ❗ Opened issue [#237](https://github.com/timmo001/home-assistant-assist-desktop/issues/237) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
-4. 🎉 Merged PR [#247](https://github.com/timmo001/workflows/pull/247) in [timmo001/workflows](https://github.com/timmo001/workflows)
-5. ❗ Opened issue [#31](https://github.com/music-assistant/companion/issues/31) in [music-assistant/companion](https://github.com/music-assistant/companion)
+3. 🗣 Commented on [#237](https://github.com/timmo001/home-assistant-assist-desktop/issues/237) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+4. 🗣 Commented on [#236](https://github.com/timmo001/home-assistant-assist-desktop/issues/236) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
+5. 🗣 Commented on [#237](https://github.com/timmo001/home-assistant-assist-desktop/issues/237) in [timmo001/home-assistant-assist-desktop](https://github.com/timmo001/home-assistant-assist-desktop)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
