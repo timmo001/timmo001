@@ -20,11 +20,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33283](https://github.com/home-assistant/home-assistant.io/pull/33283) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-2. 🗣 Commented on [#119737](https://github.com/home-assistant/core/issues/119737) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 💪 Opened PR [#119737](https://github.com/home-assistant/core/pull/119737) in [home-assistant/core](https://github.com/home-assistant/core)
-4. ❗ Opened issue [#27](https://github.com/timmo001/aioazuredevops/issues/27) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
-5. 💪 Opened PR [#119720](https://github.com/home-assistant/core/pull/119720) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🎉 Merged PR [#30](https://github.com/timmo001/aioazuredevops/pull/30) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
+2. 🔒 Closed issue [#27](https://github.com/timmo001/aioazuredevops/issues/27) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
+3. 💪 Opened PR [#30](https://github.com/timmo001/aioazuredevops/pull/30) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
+4. 🎉 Merged PR [#29](https://github.com/timmo001/aioazuredevops/pull/29) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
+5. 💪 Opened PR [#29](https://github.com/timmo001/aioazuredevops/pull/29) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
