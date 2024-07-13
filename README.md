@@ -20,11 +20,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/timmo001/letmeknow/pull/6) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-2. 💪 Opened PR [#6](https://github.com/timmo001/letmeknow/pull/6) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-3. 🎉 Merged PR [#5](https://github.com/timmo001/letmeknow/pull/5) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-4. 💪 Opened PR [#120937](https://github.com/home-assistant/core/pull/120937) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#120575](https://github.com/home-assistant/core/issues/120575) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#9](https://github.com/timmo001/letmeknow/issues/9) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+2. ❌ Closed PR [#6](https://github.com/timmo001/letmeknow/pull/6) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+3. 💪 Opened PR [#6](https://github.com/timmo001/letmeknow/pull/6) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+4. 🎉 Merged PR [#5](https://github.com/timmo001/letmeknow/pull/5) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+5. 💪 Opened PR [#120937](https://github.com/home-assistant/core/pull/120937) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
