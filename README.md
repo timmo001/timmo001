@@ -20,11 +20,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/timmo001/letmeknow/pull/13) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-2. 🎉 Merged PR [#10](https://github.com/timmo001/letmeknow/pull/10) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-3. 🎉 Merged PR [#11](https://github.com/timmo001/letmeknow/pull/11) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-4. 🎉 Merged PR [#12](https://github.com/timmo001/letmeknow/pull/12) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-5. 🎉 Merged PR [#9](https://github.com/timmo001/letmeknow/pull/9) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+1. 🚀 Published release [0.3.0](https://github.com/0.3.0) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+2. 🚀 Published release [0.2.2](https://github.com/0.2.2) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+3. 🚀 Published release [0.2.1](https://github.com/0.2.1) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+4. 🚀 Published release [0.2.0](https://github.com/0.2.0) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+5. 🚀 Published release [0.1.0](https://github.com/0.1.0) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
