@@ -20,11 +20,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.3.0](https://github.com/0.3.0) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-2. 🚀 Published release [0.2.2](https://github.com/0.2.2) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-3. 🚀 Published release [0.2.1](https://github.com/0.2.1) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-4. 🚀 Published release [0.2.0](https://github.com/0.2.0) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
-5. 🚀 Published release [0.1.0](https://github.com/0.1.0) in [timmo001/letmeknow](https://github.com/timmo001/letmeknow)
+1. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [timmo001/letmeknow-integration-homeassistant](https://github.com/timmo001/letmeknow-integration-homeassistant)
+2. 🎉 Merged PR [#2](https://github.com/timmo001/homeassistant-integration-hautils/pull/2) in [timmo001/homeassistant-integration-hautils](https://github.com/timmo001/homeassistant-integration-hautils)
+3. 🎉 Merged PR [#1](https://github.com/timmo001/homeassistant-integration-hautils/pull/1) in [timmo001/homeassistant-integration-hautils](https://github.com/timmo001/homeassistant-integration-hautils)
+4. 🎉 Merged PR [#3](https://github.com/timmo001/letmeknow-integration-homeassistant/pull/3) in [timmo001/letmeknow-integration-homeassistant](https://github.com/timmo001/letmeknow-integration-homeassistant)
+5. 🗣 Commented on [#3](https://github.com/timmo001/letmeknow-integration-homeassistant/issues/3) in [timmo001/letmeknow-integration-homeassistant](https://github.com/timmo001/letmeknow-integration-homeassistant)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
