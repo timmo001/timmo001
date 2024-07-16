@@ -20,11 +20,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [timmo001/letmeknow-types-go](https://github.com/timmo001/letmeknow-types-go)
-2. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [timmo001/letmeknow-integration-homeassistant](https://github.com/timmo001/letmeknow-integration-homeassistant)
-3. 🎉 Merged PR [#2](https://github.com/timmo001/homeassistant-integration-hautils/pull/2) in [timmo001/homeassistant-integration-hautils](https://github.com/timmo001/homeassistant-integration-hautils)
-4. 🎉 Merged PR [#1](https://github.com/timmo001/homeassistant-integration-hautils/pull/1) in [timmo001/homeassistant-integration-hautils](https://github.com/timmo001/homeassistant-integration-hautils)
-5. 🎉 Merged PR [#3](https://github.com/timmo001/letmeknow-integration-homeassistant/pull/3) in [timmo001/letmeknow-integration-homeassistant](https://github.com/timmo001/letmeknow-integration-homeassistant)
+1. 🎉 Merged PR [#1](https://github.com/timmo001/letmeknow-server/pull/1) in [timmo001/letmeknow-server](https://github.com/timmo001/letmeknow-server)
+2. 🚀 Published release [v1.0.0](https://github.com/v1.0.0) in [timmo001/letmeknow-server](https://github.com/timmo001/letmeknow-server)
+3. 🚀 Published release [v1.1.0](https://github.com/v1.1.0) in [timmo001/letmeknow-types-go](https://github.com/timmo001/letmeknow-types-go)
+4. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [timmo001/letmeknow-types-go](https://github.com/timmo001/letmeknow-types-go)
+5. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [timmo001/letmeknow-integration-homeassistant](https://github.com/timmo001/letmeknow-integration-homeassistant)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
