@@ -17,6 +17,8 @@ My name is Aidan, but you might know me better as Timmo or @timmo001
 
 If you like my work and want to send a tip my way, you can find links below on one-time payment or an ongoing sponsorship. Thank you in advance for any contribution! 👍
 
+[:heart: Sponsor](https://github.com/sponsors/timmo001)
+
 ## Recent Activity
 
 <!--START_SECTION:activity-->
