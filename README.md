@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#41](https://github.com/timmo001/aioazuredevops/issues/41) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
-2. ❗ Opened issue [#10](https://github.com/timmo001/notes.timmo.dev/issues/10) in [timmo001/notes.timmo.dev](https://github.com/timmo001/notes.timmo.dev)
-3. ❗ Opened issue [#9](https://github.com/timmo001/notes.timmo.dev/issues/9) in [timmo001/notes.timmo.dev](https://github.com/timmo001/notes.timmo.dev)
-4. ❗ Opened issue [#8](https://github.com/timmo001/notes.timmo.dev/issues/8) in [timmo001/notes.timmo.dev](https://github.com/timmo001/notes.timmo.dev)
-5. 🔒 Closed issue [#7](https://github.com/timmo001/notes.timmo.dev/issues/7) in [timmo001/notes.timmo.dev](https://github.com/timmo001/notes.timmo.dev)
+1. 🗣 Commented on [#442](https://github.com/cthackers/adm-zip/issues/442) in [cthackers/adm-zip](https://github.com/cthackers/adm-zip)
+2. ❗ Opened issue [#41](https://github.com/timmo001/aioazuredevops/issues/41) in [timmo001/aioazuredevops](https://github.com/timmo001/aioazuredevops)
+3. ❗ Opened issue [#10](https://github.com/timmo001/notes.timmo.dev/issues/10) in [timmo001/notes.timmo.dev](https://github.com/timmo001/notes.timmo.dev)
+4. ❗ Opened issue [#9](https://github.com/timmo001/notes.timmo.dev/issues/9) in [timmo001/notes.timmo.dev](https://github.com/timmo001/notes.timmo.dev)
+5. ❗ Opened issue [#8](https://github.com/timmo001/notes.timmo.dev/issues/8) in [timmo001/notes.timmo.dev](https://github.com/timmo001/notes.timmo.dev)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
