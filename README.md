@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/timmo001/weather.timmo.dev/issues/13) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
-2. ❌ Closed PR [#11](https://github.com/timmo001/weather.timmo.dev/pull/11) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
-3. 🎉 Merged PR [#12](https://github.com/timmo001/weather.timmo.dev/pull/12) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
-4. 💪 Opened PR [#12](https://github.com/timmo001/weather.timmo.dev/pull/12) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
-5. 💪 Opened PR [#11](https://github.com/timmo001/weather.timmo.dev/pull/11) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+1. 💪 Opened PR [#14](https://github.com/timmo001/weather.timmo.dev/pull/14) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+2. ❗ Opened issue [#13](https://github.com/timmo001/weather.timmo.dev/issues/13) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+3. ❌ Closed PR [#11](https://github.com/timmo001/weather.timmo.dev/pull/11) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+4. 🎉 Merged PR [#12](https://github.com/timmo001/weather.timmo.dev/pull/12) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+5. 💪 Opened PR [#12](https://github.com/timmo001/weather.timmo.dev/pull/12) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
