@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [20240908.2](https://github.com/20240908.2) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
-2. 🚀 Published release [20240908.1](https://github.com/20240908.1) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
-3. 🗣 Commented on [#28](https://github.com/timmo001/weather.timmo.dev/issues/28) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
-4. 💪 Opened PR [#28](https://github.com/timmo001/weather.timmo.dev/pull/28) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
-5. ❌ Closed PR [#25](https://github.com/timmo001/weather.timmo.dev/pull/25) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+1. 🗣 Commented on [#28](https://github.com/timmo001/weather.timmo.dev/issues/28) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+2. 🚀 Published release [20240908.2](https://github.com/20240908.2) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+3. 🚀 Published release [20240908.1](https://github.com/20240908.1) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+4. 🗣 Commented on [#28](https://github.com/timmo001/weather.timmo.dev/issues/28) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+5. 💪 Opened PR [#28](https://github.com/timmo001/weather.timmo.dev/pull/28) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
