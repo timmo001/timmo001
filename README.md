@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/timmo001/whats-up/pull/1) in [timmo001/whats-up](https://github.com/timmo001/whats-up)
-2. 🎉 Merged PR [#2](https://github.com/timmo001/whats-up/pull/2) in [timmo001/whats-up](https://github.com/timmo001/whats-up)
-3. 🎉 Merged PR [#3](https://github.com/timmo001/whats-up/pull/3) in [timmo001/whats-up](https://github.com/timmo001/whats-up)
-4. 🎉 Merged PR [#4](https://github.com/timmo001/whats-up/pull/4) in [timmo001/whats-up](https://github.com/timmo001/whats-up)
-5. 🗣 Commented on [#1](https://github.com/timmo001/whats-up/issues/1) in [timmo001/whats-up](https://github.com/timmo001/whats-up)
+1. 🎉 Merged PR [#43](https://github.com/timmo001/weather.timmo.dev/pull/43) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+2. 🎉 Merged PR [#42](https://github.com/timmo001/weather.timmo.dev/pull/42) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+3. 🎉 Merged PR [#41](https://github.com/timmo001/weather.timmo.dev/pull/41) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+4. 🎉 Merged PR [#1](https://github.com/timmo001/whats-up/pull/1) in [timmo001/whats-up](https://github.com/timmo001/whats-up)
+5. 🎉 Merged PR [#2](https://github.com/timmo001/whats-up/pull/2) in [timmo001/whats-up](https://github.com/timmo001/whats-up)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
