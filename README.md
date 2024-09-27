@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/58) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
-2. 🎉 Merged PR [#60](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/60) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
-3. 🎉 Merged PR [#61](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/61) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
-4. 🎉 Merged PR [#62](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/62) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
-5. 🎉 Merged PR [#58](https://github.com/timmo001/weather.timmo.dev/pull/58) in [timmo001/weather.timmo.dev](https://github.com/timmo001/weather.timmo.dev)
+1. 🎉 Merged PR [#7](https://github.com/timmo001/create-timmo-app/pull/7) in [timmo001/create-timmo-app](https://github.com/timmo001/create-timmo-app)
+2. 🎉 Merged PR [#8](https://github.com/timmo001/create-timmo-app/pull/8) in [timmo001/create-timmo-app](https://github.com/timmo001/create-timmo-app)
+3. 🎉 Merged PR [#58](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/58) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+4. 🎉 Merged PR [#60](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/60) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
+5. 🎉 Merged PR [#61](https://github.com/timmo001/homeassistant-integration-goxlr-utility/pull/61) in [timmo001/homeassistant-integration-goxlr-utility](https://github.com/timmo001/homeassistant-integration-goxlr-utility)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
