@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3425](https://github.com/timmo001/system-bridge/issues/3425) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. 🗣 Commented on [#75](https://github.com/esphome/firmware/issues/75) in [esphome/firmware](https://github.com/esphome/firmware)
-3. 🎉 Merged PR [#3423](https://github.com/timmo001/system-bridge/pull/3423) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 🗣 Commented on [#133977](https://github.com/home-assistant/core/issues/133977) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#133977](https://github.com/home-assistant/core/issues/133977) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#3430](https://github.com/timmo001/system-bridge/issues/3430) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🎉 Merged PR [#3428](https://github.com/timmo001/system-bridge/pull/3428) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+3. 🎉 Merged PR [#3426](https://github.com/timmo001/system-bridge/pull/3426) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+4. 🎉 Merged PR [#3422](https://github.com/timmo001/system-bridge/pull/3422) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 🔒 Closed issue [#3425](https://github.com/timmo001/system-bridge/issues/3425) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
