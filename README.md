@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146281](https://github.com/home-assistant/core/pull/146281) in [home-assistant/core](https://github.com/home-assistant/core)
-2. 🗣 Commented on [#1024](https://github.com/timmo001/timmo.dev/issues/1024) in [timmo001/timmo.dev](https://github.com/timmo001/timmo.dev)
-3. 🗣 Commented on [#875](https://github.com/timmo001/timmo.dev/issues/875) in [timmo001/timmo.dev](https://github.com/timmo001/timmo.dev)
-4. 🗣 Commented on [#898](https://github.com/timmo001/timmo.dev/issues/898) in [timmo001/timmo.dev](https://github.com/timmo001/timmo.dev)
-5. 🗣 Commented on [#900](https://github.com/timmo001/timmo.dev/issues/900) in [timmo001/timmo.dev](https://github.com/timmo001/timmo.dev)
+1. 🗣 Commented on [#132](https://github.com/timmo001/ovoenergy/issues/132) in [timmo001/ovoenergy](https://github.com/timmo001/ovoenergy)
+2. 🔒 Closed issue [#132](https://github.com/timmo001/ovoenergy/issues/132) in [timmo001/ovoenergy](https://github.com/timmo001/ovoenergy)
+3. 🗣 Commented on [#78](https://github.com/timmo001/system-bridge-connector/issues/78) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+4. 🎉 Merged PR [#78](https://github.com/timmo001/system-bridge-connector/pull/78) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+5. 💪 Opened PR [#146281](https://github.com/home-assistant/core/pull/146281) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
