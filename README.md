@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26523](https://github.com/home-assistant/frontend/pull/26523) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. 🗣 Commented on [#26520](https://github.com/home-assistant/frontend/issues/26520) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 🗣 Commented on [#671](https://github.com/basecamp/omarchy/issues/671) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
-4. 🎉 Merged PR [#3494](https://github.com/timmo001/system-bridge/pull/3494) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-5. ❗ Opened issue [#667](https://github.com/basecamp/omarchy/issues/667) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. 💪 Opened PR [#26554](https://github.com/home-assistant/frontend/pull/26554) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 💪 Opened PR [#26523](https://github.com/home-assistant/frontend/pull/26523) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 🗣 Commented on [#26520](https://github.com/home-assistant/frontend/issues/26520) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. 🗣 Commented on [#671](https://github.com/basecamp/omarchy/issues/671) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+5. 🎉 Merged PR [#3494](https://github.com/timmo001/system-bridge/pull/3494) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
