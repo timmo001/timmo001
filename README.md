@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26557](https://github.com/home-assistant/frontend/pull/26557) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. 💪 Opened PR [#26554](https://github.com/home-assistant/frontend/pull/26554) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 💪 Opened PR [#26523](https://github.com/home-assistant/frontend/pull/26523) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-4. 🗣 Commented on [#26520](https://github.com/home-assistant/frontend/issues/26520) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 🗣 Commented on [#671](https://github.com/basecamp/omarchy/issues/671) in [basecamp/omarchy](https://github.com/basecamp/omarchy)
+1. 🗣 Commented on [#74](https://github.com/timmo001/system-bridge-models/issues/74) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
+2. ❌ Closed PR [#74](https://github.com/timmo001/system-bridge-models/pull/74) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
+3. 🗣 Commented on [#83](https://github.com/timmo001/system-bridge-models/issues/83) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
+4. 🗣 Commented on [#81](https://github.com/timmo001/system-bridge-models/issues/81) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
+5. 🗣 Commented on [#81](https://github.com/timmo001/system-bridge-models/issues/81) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
