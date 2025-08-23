@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3500](https://github.com/timmo001/system-bridge/issues/3500) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. 🚀 Published release [5.0.0-beta.14](https://github.com/5.0.0-beta.14) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🚀 Published release [5.0.0-beta.11](https://github.com/5.0.0-beta.11) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 🚀 Published release [5.0.0-beta.10](https://github.com/5.0.0-beta.10) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-5. 🚀 Published release [5.0.0-beta.9](https://github.com/5.0.0-beta.9) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🎉 Merged PR [#3502](https://github.com/timmo001/system-bridge/pull/3502) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🎉 Merged PR [#3501](https://github.com/timmo001/system-bridge/pull/3501) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+3. 🗣 Commented on [#3500](https://github.com/timmo001/system-bridge/issues/3500) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+4. 🗣 Commented on [#3500](https://github.com/timmo001/system-bridge/issues/3500) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 🗣 Commented on [#3500](https://github.com/timmo001/system-bridge/issues/3500) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
