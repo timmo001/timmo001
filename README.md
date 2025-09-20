@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [5.1.0](https://github.com/5.1.0) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
-2. 🚀 Published release [5.1.1](https://github.com/5.1.1) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
-3. 🚀 Published release [5.1.0](https://github.com/5.1.0) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
-4. 🎉 Merged PR [#3539](https://github.com/timmo001/system-bridge/pull/3539) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-5. 💪 Opened PR [#3539](https://github.com/timmo001/system-bridge/pull/3539) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 💪 Opened PR [#40930](https://github.com/home-assistant/home-assistant.io/pull/40930) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+2. 💪 Opened PR [#152625](https://github.com/home-assistant/core/pull/152625) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 💪 Opened PR [#152623](https://github.com/home-assistant/core/pull/152623) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🚀 Published release [5.1.0](https://github.com/5.1.0) in [timmo001/system-bridge-connector](https://github.com/timmo001/system-bridge-connector)
+5. 🚀 Published release [5.1.1](https://github.com/5.1.1) in [timmo001/system-bridge-models](https://github.com/timmo001/system-bridge-models)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
