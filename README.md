@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#27231](https://github.com/home-assistant/frontend/issues/27231) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. 🚀 Published release [1.0.1](https://github.com/1.0.1) in [timmo001/ha-card-energy-breakdown](https://github.com/timmo001/ha-card-energy-breakdown)
-3. 🚀 Published release [1.0.0](https://github.com/1.0.0) in [timmo001/ha-card-energy-breakdown](https://github.com/timmo001/ha-card-energy-breakdown)
-4. 🔒 Closed issue [#1](https://github.com/timmo001/ha-card-energy-breakdown/issues/1) in [timmo001/ha-card-energy-breakdown](https://github.com/timmo001/ha-card-energy-breakdown)
-5. ❗ Opened issue [#1](https://github.com/timmo001/ha-card-energy-breakdown/issues/1) in [timmo001/ha-card-energy-breakdown](https://github.com/timmo001/ha-card-energy-breakdown)
+1. 🗣 Commented on [#27207](https://github.com/home-assistant/frontend/issues/27207) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 🗣 Commented on [#27240](https://github.com/home-assistant/frontend/issues/27240) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 💪 Opened PR [#27240](https://github.com/home-assistant/frontend/pull/27240) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. 🗣 Commented on [#27162](https://github.com/home-assistant/frontend/issues/27162) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. 🗣 Commented on [#27011](https://github.com/home-assistant/frontend/issues/27011) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
