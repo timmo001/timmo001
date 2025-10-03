@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#153488](https://github.com/home-assistant/core/pull/153488) in [home-assistant/core](https://github.com/home-assistant/core)
-2. ❌ Closed PR [#153488](https://github.com/home-assistant/core/pull/153488) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 💪 Opened PR [#153488](https://github.com/home-assistant/core/pull/153488) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 💪 Opened PR [#153476](https://github.com/home-assistant/core/pull/153476) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🚀 Published release [3.0.0](https://github.com/3.0.0) in [timmo001/ovoenergy](https://github.com/timmo001/ovoenergy)
+1. 🗣 Commented on [#153506](https://github.com/home-assistant/core/issues/153506) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#153506](https://github.com/home-assistant/core/issues/153506) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❌ Reopened PR [#153488](https://github.com/home-assistant/core/pull/153488) in [home-assistant/core](https://github.com/home-assistant/core)
+4. ❌ Closed PR [#153488](https://github.com/home-assistant/core/pull/153488) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 💪 Opened PR [#153488](https://github.com/home-assistant/core/pull/153488) in [home-assistant/core](https://github.com/home-assistant/core)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
