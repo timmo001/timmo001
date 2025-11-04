@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#27790](https://github.com/home-assistant/frontend/pull/27790) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. ❌ Unlabeled PR [#27790](https://github.com/home-assistant/frontend/pull/27790) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 💪 Opened PR [#41605](https://github.com/home-assistant/home-assistant.io/pull/41605) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-4. ❌ Labeled PR [#27790](https://github.com/home-assistant/frontend/pull/27790) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 💪 Opened PR [#27790](https://github.com/home-assistant/frontend/pull/27790) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. 🔒 Labeled issue [#26387](https://github.com/home-assistant/frontend/issues/26387) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 🔒 Unlabeled issue [#26387](https://github.com/home-assistant/frontend/issues/26387) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. ❌ Labeled PR [#27792](https://github.com/home-assistant/frontend/pull/27792) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. ❌ Unlabeled PR [#27792](https://github.com/home-assistant/frontend/pull/27792) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. 💪 Opened PR [#41609](https://github.com/home-assistant/home-assistant.io/pull/41609) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
