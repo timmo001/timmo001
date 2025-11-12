@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#3593](https://github.com/timmo001/system-bridge/issues/3593) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+1. 🗣 Commented on [#26094](https://github.com/home-assistant/frontend/issues/26094) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 2. 🔒 Labeled issue [#3593](https://github.com/timmo001/system-bridge/issues/3593) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-3. 🔒 Unlabeled issue [#3593](https://github.com/timmo001/system-bridge/issues/3593) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-4. 💪 Opened PR [#27858](https://github.com/home-assistant/frontend/pull/27858) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 🗣 Commented on [#27790](https://github.com/home-assistant/frontend/issues/27790) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 🔒 Labeled issue [#3593](https://github.com/timmo001/system-bridge/issues/3593) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+4. 🔒 Unlabeled issue [#3593](https://github.com/timmo001/system-bridge/issues/3593) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 💪 Opened PR [#27858](https://github.com/home-assistant/frontend/pull/27858) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
