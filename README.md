@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Assigned issue [#28253](https://github.com/home-assistant/frontend/issues/28253) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. 💪 Opened PR [#8607](https://github.com/home-assistant/brands/pull/8607) in [home-assistant/brands](https://github.com/home-assistant/brands)
-3. 💪 Opened PR [#42039](https://github.com/home-assistant/home-assistant.io/pull/42039) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-4. 💪 Opened PR [#157619](https://github.com/home-assistant/core/pull/157619) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 💪 Opened PR [#157618](https://github.com/home-assistant/core/pull/157618) in [home-assistant/core](https://github.com/home-assistant/core)
+1. ❗ Opened issue [#36](https://github.com/home-assistant/works-with.home-assistant.io/issues/36) in [home-assistant/works-with.home-assistant.io](https://github.com/home-assistant/works-with.home-assistant.io)
+2. 💪 Opened PR [#28266](https://github.com/home-assistant/frontend/pull/28266) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 🔒 Assigned issue [#28258](https://github.com/home-assistant/frontend/issues/28258) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. 💪 Opened PR [#28261](https://github.com/home-assistant/frontend/pull/28261) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. 🔒 Assigned issue [#28253](https://github.com/home-assistant/frontend/issues/28253) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
