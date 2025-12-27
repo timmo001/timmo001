@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159771](https://github.com/home-assistant/core/issues/159771) in [home-assistant/core](https://github.com/home-assistant/core)
-2. ❌ Merged PR [#28608](https://github.com/home-assistant/frontend/pull/28608) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 🚀 Published release [1.1.1](https://github.com/1.1.1) in [timmo001/ha-card-energy-breakdown](https://github.com/timmo001/ha-card-energy-breakdown)
-4. ❌ Merged PR [#28508](https://github.com/home-assistant/frontend/pull/28508) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. ❌ Merged PR [#28461](https://github.com/home-assistant/frontend/pull/28461) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. 🔒 Closed issue [#3677](https://github.com/timmo001/system-bridge/issues/3677) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. 🗣 Commented on [#159771](https://github.com/home-assistant/core/issues/159771) in [home-assistant/core](https://github.com/home-assistant/core)
+3. ❌ Merged PR [#28608](https://github.com/home-assistant/frontend/pull/28608) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. 🚀 Published release [1.1.1](https://github.com/1.1.1) in [timmo001/ha-card-energy-breakdown](https://github.com/timmo001/ha-card-energy-breakdown)
+5. ❌ Merged PR [#28508](https://github.com/home-assistant/frontend/pull/28508) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
