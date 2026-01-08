@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3693](https://github.com/timmo001/system-bridge/pull/3693) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
-2. 🚀 Published release [1.2.0](https://github.com/1.2.0) in [timmo001/ha-card-energy-breakdown](https://github.com/timmo001/ha-card-energy-breakdown)
-3. 🗣 Commented on [#27030](https://github.com/home-assistant/frontend/issues/27030) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-4. 🔒 Closed issue [#27030](https://github.com/home-assistant/frontend/issues/27030) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 🔒 Closed issue [#26453](https://github.com/home-assistant/frontend/issues/26453) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. 🔒 Closed issue [#3695](https://github.com/timmo001/system-bridge/issues/3695) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+2. ❌ Merged PR [#3696](https://github.com/timmo001/system-bridge/pull/3696) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+3. 🗣 Commented on [#3695](https://github.com/timmo001/system-bridge/issues/3695) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+4. ❌ Labeled PR [#3696](https://github.com/timmo001/system-bridge/pull/3696) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
+5. 💪 Opened PR [#3696](https://github.com/timmo001/system-bridge/pull/3696) in [timmo001/system-bridge](https://github.com/timmo001/system-bridge)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
