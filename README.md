@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28976](https://github.com/home-assistant/frontend/issues/28976) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. 💪 Opened PR [#28992](https://github.com/home-assistant/frontend/pull/28992) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 🔒 Labeled issue [#27535](https://github.com/home-assistant/frontend/issues/27535) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-4. 🔒 Unlabeled issue [#27535](https://github.com/home-assistant/frontend/issues/27535) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 🗣 Commented on [#28956](https://github.com/home-assistant/frontend/issues/28956) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. 🔒 Closed issue [#18106](https://github.com/home-assistant/frontend/issues/18106) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 🔒 Unlabeled issue [#18106](https://github.com/home-assistant/frontend/issues/18106) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 🔒 Reopened issue [#18106](https://github.com/home-assistant/frontend/issues/18106) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. ❌ Merged PR [#28992](https://github.com/home-assistant/frontend/pull/28992) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. 💪 Opened PR [#29002](https://github.com/home-assistant/frontend/pull/29002) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
