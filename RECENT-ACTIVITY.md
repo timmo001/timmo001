@@ -1,13 +1,13 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29392](https://github.com/home-assistant/frontend/issues/29392) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. ❌ Merged PR [#29369](https://github.com/home-assistant/frontend/pull/29369) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 💪 Opened PR [#29374](https://github.com/home-assistant/frontend/pull/29374) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-4. 💪 Opened PR [#29373](https://github.com/home-assistant/frontend/pull/29373) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 💪 Opened PR [#29369](https://github.com/home-assistant/frontend/pull/29369) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-6. ❌ Merged PR [#29360](https://github.com/home-assistant/frontend/pull/29360) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-7. ❌ Merged PR [#29362](https://github.com/home-assistant/frontend/pull/29362) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. 💪 Opened PR [#29399](https://github.com/home-assistant/frontend/pull/29399) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 💪 Opened PR [#29397](https://github.com/home-assistant/frontend/pull/29397) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 🗣 Commented on [#29392](https://github.com/home-assistant/frontend/issues/29392) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. ❌ Merged PR [#29369](https://github.com/home-assistant/frontend/pull/29369) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. 💪 Opened PR [#29374](https://github.com/home-assistant/frontend/pull/29374) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+6. 💪 Opened PR [#29373](https://github.com/home-assistant/frontend/pull/29373) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+7. 💪 Opened PR [#29369](https://github.com/home-assistant/frontend/pull/29369) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 8. 💪 Opened PR [#29367](https://github.com/home-assistant/frontend/pull/29367) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 9. 💪 Opened PR [#29362](https://github.com/home-assistant/frontend/pull/29362) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 10. ❌ Labeled PR [#29167](https://github.com/home-assistant/frontend/pull/29167) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
