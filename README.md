@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29392](https://github.com/home-assistant/frontend/issues/29392) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. ❌ Merged PR [#29369](https://github.com/home-assistant/frontend/pull/29369) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 💪 Opened PR [#29374](https://github.com/home-assistant/frontend/pull/29374) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-4. 💪 Opened PR [#29373](https://github.com/home-assistant/frontend/pull/29373) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 💪 Opened PR [#29369](https://github.com/home-assistant/frontend/pull/29369) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. 💪 Opened PR [#29399](https://github.com/home-assistant/frontend/pull/29399) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 💪 Opened PR [#29397](https://github.com/home-assistant/frontend/pull/29397) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 🗣 Commented on [#29392](https://github.com/home-assistant/frontend/issues/29392) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. ❌ Merged PR [#29369](https://github.com/home-assistant/frontend/pull/29369) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. 💪 Opened PR [#29374](https://github.com/home-assistant/frontend/pull/29374) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
