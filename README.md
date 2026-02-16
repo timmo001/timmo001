@@ -22,11 +22,11 @@ If you like my work and want to send a tip my way, you can find links below on o
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#29627](https://github.com/home-assistant/frontend/pull/29627) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. ❌ Labeled PR [#29627](https://github.com/home-assistant/frontend/pull/29627) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 💪 Opened PR [#29627](https://github.com/home-assistant/frontend/pull/29627) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-4. ❌ Merged PR [#29610](https://github.com/home-assistant/frontend/pull/29610) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. ❌ Merged PR [#29619](https://github.com/home-assistant/frontend/pull/29619) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+1. ❌ Merged PR [#29655](https://github.com/home-assistant/frontend/pull/29655) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 💪 Opened PR [#29656](https://github.com/home-assistant/frontend/pull/29656) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+3. 💪 Opened PR [#29655](https://github.com/home-assistant/frontend/pull/29655) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+4. 🗣 Commented on [#29653](https://github.com/home-assistant/frontend/issues/29653) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+5. 🗣 Commented on [#29622](https://github.com/home-assistant/frontend/issues/29622) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 6. 💪 Opened PR [#2168](https://github.com/timmo001/home-panel/pull/2168) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 7. 🎉 Merged PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
 8. 💪 Opened PR [#2165](https://github.com/timmo001/home-panel/pull/2165) in [timmo001/home-panel](https://github.com/timmo001/home-panel)
