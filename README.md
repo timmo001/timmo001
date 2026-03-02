@@ -19,7 +19,5 @@ If you like my work and want to send a tip my way, you can find links below on o
 
 [:heart: Sponsor](https://github.com/sponsors/timmo001)
 
----
-
 [sponsor-badge]: https://github.com/timmo001/timmo001/blob/master/sponsor.png?raw=true
 [sponsor]: https://github.com/sponsors/timmo001?o=esc
