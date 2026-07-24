@@ -2,7 +2,9 @@
 
 My name is Aidan, but you might know me better as Timmo or @timmo001
 
-[![timmo001's GitHub stats and top languages](https://timmo.dev/github/readme.svg?v=e6651e7)](https://timmo.dev/stats)
+<a alt="timmo001's GitHub stats and top languages" href="https://timmo.dev/stats" target="_blank">
+  <img src="https://timmo.dev/github/readme.svg?v=e6651e7" width="100%" />
+</a>
 
 ## Contact / Social
 
