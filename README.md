@@ -3,7 +3,7 @@
 My name is Aidan, but you might know me better as Timmo or @timmo001
 
 <a alt="timmo001's GitHub stats and top languages" href="https://timmo.dev/stats" target="_blank">
-  <img src="https://timmo.dev/github/readme.svg?v=5146468" width="100%" />
+  <img src="https://timmo.dev/github/readme.svg?v=" width="100%" />
 </a>
 
 ## Contact / Social
