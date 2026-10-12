@@ -1,7 +1,3 @@
-### Hello! 👋
-
-My name is Aidan, but you might know me better as Timmo or @timmo001
-
 <!-- Rendered live by https://timmo.dev from timmo001/timmo.dev (src/lib/cards). Each section is also available on its own at https://timmo.dev/github/{header,stats,contributions,contributing,activity,releases,top-languages,footer}.svg -->
 <a href="https://timmo.dev" target="_blank">
   <img src="https://timmo.dev/github/readme.svg" width="100%" alt="timmo001's GitHub profile: stats, contribution calendar, repositories I am contributing to and working on in the last 60 days, latest releases, and top languages." />
