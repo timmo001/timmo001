@@ -11,6 +11,6 @@
 
 ## Tips
 
-If you like my work and want to send a tip my way, you can find links below on one-time payment or an ongoing sponsorship. Thank you in advance for any contribution! 👍
+If you like my work and want to send a tip my way, you can find links below for a one-time payment or an ongoing sponsorship. Thank you in advance for any contribution! 👍
 
 [:heart: Sponsor](https://github.com/sponsors/timmo001)
