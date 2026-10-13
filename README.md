@@ -1,9 +1,6 @@
-### Hello! 👋
-
-My name is Aidan, but you might know me better as Timmo or @timmo001
-
-<a alt="timmo001's GitHub stats and top languages" href="https://timmo.dev/stats" target="_blank">
-  <img src="https://timmo.dev/github/readme.svg?v=5146468.1" width="100%" />
+<!-- Rendered live by https://timmo.dev from timmo001/timmo.dev (src/lib/cards). Each section is also available on its own at https://timmo.dev/github/{header,stats,contributions,contributing,activity,releases,top-languages,footer}.svg -->
+<a href="https://timmo.dev" target="_blank">
+  <img src="https://timmo.dev/github/readme.svg" width="100%" alt="timmo001's GitHub profile: stats, contribution calendar, repositories I am contributing to and working on in the last 60 days, latest releases, and top languages." />
 </a>
 
 ## Contact / Social
@@ -17,6 +14,3 @@ My name is Aidan, but you might know me better as Timmo or @timmo001
 If you like my work and want to send a tip my way, you can find links below on one-time payment or an ongoing sponsorship. Thank you in advance for any contribution! 👍
 
 [:heart: Sponsor](https://github.com/sponsors/timmo001)
-
-[sponsor-badge]: https://github.com/timmo001/timmo001/blob/master/sponsor.png?raw=true
-[sponsor]: https://github.com/sponsors/timmo001?o=esc
